@@ -39,3 +39,9 @@ hr {
   border-width: 9px;
   cursor: pointer;
 }
+
+@media (min-width: 500px) {
+  .btn {
+    margin-left: 20px;
+  }
+}
