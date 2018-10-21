@@ -28,7 +28,6 @@ hr {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 420px;
   box-sizing: border-box;
 }
 .btn:hover {
@@ -49,11 +48,3 @@ hr {
     top: 200px;
   }
 }*/
-@media only screen and (min-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-    .btn {
-      background-color: red;
-    }
-}
